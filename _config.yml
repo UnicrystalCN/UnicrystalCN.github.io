@@ -5,10 +5,9 @@ description: >
   Unicrystal 匀晶光电
 lang: en-US
 
-baseurl: "unicrystalcn" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://unicrystalcn.github.io # the base hostname & protocol for your site
 git_address: https://github.com/UnicrystalCN/UnicrystalCN.github.io
-# git_edit_address: https://github.com/unicrystal/webpage/blob/gh-pages
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
