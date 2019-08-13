@@ -22,9 +22,9 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400
 
 // Typography =================================================================
 
-body {
-  -webkit-font-smoothing: antialiased;
-}
+// body {
+//   -webkit-font-smoothing: antialiased;
+// } // disabled on Aug 12 2019 for better display performance similar to Yeti theme
 
 .text-primary,
 .text-primary:hover {
