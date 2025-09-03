@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 ruby RUBY_VERSION
 
-gem "jekyll", "3.8.4"
+gem "jekyll", "4.4.1"
 
 # to use GitHub Pages
 # gem "github-pages", group: :jekyll_plugins
@@ -12,6 +12,11 @@ group :jekyll_plugins do
    gem "jekyll-sitemap"
    gem "jekyll-redirect-from"
    gem "jekyll-seo-tag"
+   gem 'csv'
+   gem 'base64'
+   gem 'bigdecimal'
+   gem 'logger'
+   gem 'rexml'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
